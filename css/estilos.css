@@ -1,0 +1,56 @@
+
+body{
+  background-color: #8C2009;
+}
+.container{
+  background-color:#FFFFFF;
+}
+.header01{
+  background-color:  #76d7c4 ;  
+}
+.logo-img{ 
+  width: 100px;
+  margin: 5px;  
+}
+
+.img-social{   
+  height: 40px;
+  padding: 5px;
+ }
+
+ .navbar01{  
+  margin-top: 10px;
+  padding: 5px;
+}
+.nav-link{
+  background-color: #76d7c4 ;
+  border-radius: 5px;
+}
+.articulo{
+  margin: 10px;
+}
+.img-rock{
+  height: 290px;
+  width:100%;
+}
+.img-grupo{
+  height: 290px;
+  width:100%;
+}
+.input-group{
+   margin-top: 20px;
+}
+#ll li:hover{
+
+  color: red;
+}
+#ll li{
+  cursor: pointer;
+}
+
+.list-group {
+ margin-top: 20px;
+}
+nav a:hover{
+  background-color: red;
+}
